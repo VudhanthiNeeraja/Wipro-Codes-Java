@@ -1,3 +1,3 @@
 # Wipro-Codes-Java
 
-PS: Indepth questions are not provided.
+PS: Question explanations are not provided.
